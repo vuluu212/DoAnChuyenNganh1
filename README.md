@@ -24,30 +24,35 @@
 
 ### Kết quả thực hiện: 
 --------------------
-<p align="center">
-  <img src="[https://example.com/image.png](https://github.com/user-attachments/assets/1cb9e70c-9294-4624-adc5-f1c2c8898cdf)" alt="Giao diện chương trình chính">
-</p>
+
 
 - Giao diện chương trình chính
-  ![image](https://github.com/user-attachments/assets/1cb9e70c-9294-4624-adc5-f1c2c8898cdf)
+
+![image](https://github.com/user-attachments/assets/1cb9e70c-9294-4624-adc5-f1c2c8898cdf)
 
 - Phát hiện biển số, phân tích và hiển thị lên giao diện
-  ![image](https://github.com/user-attachments/assets/867587db-56d2-459d-ac96-cdbf678af4af)
+
+![image](https://github.com/user-attachments/assets/867587db-56d2-459d-ac96-cdbf678af4af)
 
 - Giao diện truy vấn dữ liệu
-  ![image](https://github.com/user-attachments/assets/872c7e8e-dcf0-4b71-9208-9cd5d5eeb4c7)
+
+![image](https://github.com/user-attachments/assets/872c7e8e-dcf0-4b71-9208-9cd5d5eeb4c7)
 
 - *Server* lắng nghe kết nối và chấp nhận kết nối
-  ![image](https://github.com/user-attachments/assets/3d490f6e-941d-42fd-bb1f-7c8d2168fb5d)
+
+![image](https://github.com/user-attachments/assets/3d490f6e-941d-42fd-bb1f-7c8d2168fb5d)
 
 - *Client* gửi yêu cầu đọc biển số lên *Server*
-  ![image](https://github.com/user-attachments/assets/72c58830-d715-4ade-8a61-e2e0c5886b55)
+
+![image](https://github.com/user-attachments/assets/72c58830-d715-4ade-8a61-e2e0c5886b55)
 
 - Phát hiện, xử lý biển số xe và yêu cầu mở cổng
-  ![image](https://github.com/user-attachments/assets/f48aff0f-f5fe-4263-b860-1f86af2d8713)
+
+![image](https://github.com/user-attachments/assets/f48aff0f-f5fe-4263-b860-1f86af2d8713)
 
 - Xử lý yêu cầu cổng ra bãi đỗ
-  ![image](https://github.com/user-attachments/assets/8923bbef-45ee-474a-9146-05c73e6ad149)
+
+![image](https://github.com/user-attachments/assets/8923bbef-45ee-474a-9146-05c73e6ad149)
 
 ### Ưu nhược điểm:
 --------------------
