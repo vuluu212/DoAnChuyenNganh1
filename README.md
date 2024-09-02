@@ -24,6 +24,10 @@
 
 ### Kết quả thực hiện: 
 --------------------
+<p align="center">
+  <img src="[https://example.com/image.png](https://github.com/user-attachments/assets/1cb9e70c-9294-4624-adc5-f1c2c8898cdf)" alt="Giao diện chương trình chính">
+</p>
+
 - Giao diện chương trình chính
   ![image](https://github.com/user-attachments/assets/1cb9e70c-9294-4624-adc5-f1c2c8898cdf)
 
