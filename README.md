@@ -3,8 +3,8 @@
 ### Thực hiện bởi: 
 - *Lưu Quang Vũ*
 - *Trần Văn Quốc Đạt*
-
-### Quá trình thực hiện
+[Link bài báo cáo Đồ án chuyên ngành 1](https://docs.google.com/document/d/1AHISBgSxSUhjXrb8DtjoLRXv2xVi0Q4H/edit?usp=sharing&ouid=106940902399053081489&rtpof=true&sd=true)
+### Các bước thực hiện
 --------------------
 - Cài đặt các thư viện cho xử lý ảnh
 - Viết chương trình cho *Server* bao gồm:
@@ -20,7 +20,29 @@
   - Đếm vị trí còn trống trong bãi, nếu đầy thì chỉ mở cổng ra không mở cổng vào
 - Tạo nơi lưu trữ dữ liệu và kết nối với *Server*
 - Tạo giao diện cho dự án gồm giao diện chính và giao diện tìm kiếm
-![image](https://github.com/user-attachments/assets/63d86901-fce7-4653-9c2a-d892e6ea1618)
+
+### Kết quả thực hiện: 
+--------------------
+- Giao diện chương trình chính
+  ![image](https://github.com/user-attachments/assets/1cb9e70c-9294-4624-adc5-f1c2c8898cdf)
+
+- Phát hiện biển số, phân tích và hiển thị lên giao diện
+  ![image](https://github.com/user-attachments/assets/867587db-56d2-459d-ac96-cdbf678af4af)
+
+- Giao diện truy vấn dữ liệu
+  ![image](https://github.com/user-attachments/assets/872c7e8e-dcf0-4b71-9208-9cd5d5eeb4c7)
+
+- *Server* lắng nghe kết nối và chấp nhận kết nối
+  ![image](https://github.com/user-attachments/assets/3d490f6e-941d-42fd-bb1f-7c8d2168fb5d)
+
+- *Client* gửi yêu cầu đọc biển số lên *Server*
+  ![image](https://github.com/user-attachments/assets/72c58830-d715-4ade-8a61-e2e0c5886b55)
+
+- Phát hiện, xử lý biển số xe và yêu cầu mở cổng
+  ![image](https://github.com/user-attachments/assets/f48aff0f-f5fe-4263-b860-1f86af2d8713)
+
+- Xử lý yêu cầu cổng ra bãi đỗ
+  ![image](https://github.com/user-attachments/assets/8923bbef-45ee-474a-9146-05c73e6ad149)
 
 ### Ưu nhược điểm:
 --------------------
