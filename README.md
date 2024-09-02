@@ -3,13 +3,15 @@
 	<h2 align="center"><b>Đề tài: Nhận dạng biển số xe (Number Plate Recognition)</b></h2>
 
 </p>
+
 ### Thực hiện bởi: 
+--------------
 - *Lưu Quang Vũ*
 - *Trần Văn Quốc Đạt*
 
 [Link bài báo cáo Đồ án chuyên ngành 1](https://docs.google.com/document/d/1AHISBgSxSUhjXrb8DtjoLRXv2xVi0Q4H/edit?usp=sharing&ouid=106940902399053081489&rtpof=true&sd=true)
 ### Các bước thực hiện
-
+--------------
 - Cài đặt các thư viện cho xử lý ảnh
 - Viết chương trình cho *Server* bao gồm:
   - Tạo *Server* để lắng nghe các yêu cầu kết nối từ *Client*
@@ -26,9 +28,7 @@
 - Tạo giao diện cho dự án gồm giao diện chính và giao diện tìm kiếm
 
 ### Kết quả thực hiện: 
-
-
-
+--------------
 - Giao diện chương trình chính
 
 ![image](https://github.com/user-attachments/assets/1cb9e70c-9294-4624-adc5-f1c2c8898cdf)
@@ -58,7 +58,7 @@
 ![image](https://github.com/user-attachments/assets/8923bbef-45ee-474a-9146-05c73e6ad149)
 
 ### Ưu nhược điểm:
-
+--------------
 Ưu điểm:
 - Nhận diện biển số xe
 - Lưu vào cơ sở dữ liệu gồm biển số dạng text, hình ảnh (in/out), thời gian (in/out), thời gian (in/out)
@@ -72,7 +72,7 @@ Nhược diểm:
 - Nhận diện còn phụ thuộc vào môi trường như ánh sáng,...
 
 ### Tài liệu tham khảo
-
+--------------
 [1]:  [Simarpreet Singh (2020), Detecting Geometrical Shapes in an image using OpenCV, 10/05/2024](https://dev.to/simarpreetsingh019/detecting-geometrical-shapes-in-an-image-using-opencv-4g72?comments_sort=latest)
 
 [2]:  [Nguyễn Chiến Thắng (2019), [Nhận diện biển số xe] Chương 4 – Nhận diện biển số xe bằng WPOD và Tesseract OCR, 29/4/2024](<https://www.miai.vn/2019/11/30/nhan-dien-bien-so-xe-chuong-4-nhan-dien-bien-so-xe-bang-wpod-va-tesseract-ocr/>)
